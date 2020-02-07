@@ -1,0 +1,2 @@
+spring.application.name=isl-shipment
+message=Sou a config especial do invoice
