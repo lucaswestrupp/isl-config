@@ -1,2 +1,2 @@
-spring.application.name=isl-shipment
+spring.application.name=isl-invoice
 message=Sou a config especial do invoice
